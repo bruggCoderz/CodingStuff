@@ -55,3 +55,8 @@ int main(void) {
 int add(int a, int b) {
     return a + b;
 }
+
+
+//comment numero 1
+//I am Zalen "Commenter" Puff
+//These are my comments
